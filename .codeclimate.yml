@@ -2,6 +2,10 @@
 engines:
   eslint:
     enabled: true
+  duplication:
+    enabled: true
+      languages:
+        javascript:
 ratings:
   paths:
   - "**.rb"
