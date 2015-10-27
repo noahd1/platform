@@ -7,6 +7,7 @@ engines:
     config:
       languages:
         javascript:
+          mass_threshold: 30
 ratings:
   paths:
   - "**.rb"
