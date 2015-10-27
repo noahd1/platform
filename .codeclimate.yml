@@ -15,3 +15,4 @@ ratings:
   - "**.css"
 exclude_paths:
 - config/**/*
+- web/static/**/*
